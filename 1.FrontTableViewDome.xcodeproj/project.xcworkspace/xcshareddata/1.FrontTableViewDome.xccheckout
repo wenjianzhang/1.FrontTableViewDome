@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D695DD9A-8726-4A38-B4E4-97F64CF772F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>1.FrontTableViewDome</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D61A4797-81E0-44F7-928C-D7EAA27FAF86</key>
+		<string>https://github.com/wenjianzhang/1.FrontTableViewDome.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>1.FrontTableViewDome.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D61A4797-81E0-44F7-928C-D7EAA27FAF86</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wenjianzhang/1.FrontTableViewDome.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D61A4797-81E0-44F7-928C-D7EAA27FAF86</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D61A4797-81E0-44F7-928C-D7EAA27FAF86</string>
+			<key>IDESourceControlWCCName</key>
+			<string>1.FrontTableViewDome</string>
+		</dict>
+	</array>
+</dict>
+</plist>
